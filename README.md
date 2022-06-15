@@ -1,2 +1,2 @@
-# muraftchat.epizy.com
-A global chat website using php
+This repository only to share my php project website url, the source code isn't included.
+http://muraftchat.epizy.com
